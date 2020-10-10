@@ -412,7 +412,7 @@
 		0D817E0AB7917DE0D520BEB1EC988A1D /* UIImage+GIF.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+GIF.h"; path = "SDWebImage/UIImage+GIF.h"; sourceTree = "<group>"; };
 		0DF24CE74C3C5274163211B42A610E3B /* MJRefreshConst.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshConst.m; path = MJRefresh/MJRefreshConst.m; sourceTree = "<group>"; };
 		0E70CE4A6CA5796E46931BF6D1DD2861 /* HDBaseWebViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HDBaseWebViewController.m; path = Example/_pods/HDBaseProject/HDBaseViewControllers/HDBaseWebViewController.m; sourceTree = "<group>"; };
-		0EBC87BB992739A683DDA7D84C410E66 /* HDBaseProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HDBaseProject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0EBC87BB992739A683DDA7D84C410E66 /* HDBaseProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = HDBaseProject.framework; path = HDBaseProject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F51865D5DC6CB823DB34BF6FD583230 /* HDBaseCellViewModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HDBaseCellViewModel.m; path = Example/_pods/HDBaseProject/HDBaseViewControllers/HDBaseCellViewModel.m; sourceTree = "<group>"; };
 		0F9C7BCD05307D9EAF75611FA263F6F4 /* SCCatWaitingHUD.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SCCatWaitingHUD.h; path = Pod/Classes/SCCatWaitingHUD.h; sourceTree = "<group>"; };
 		0FC2A8A213D6100489F55FDF3F61C9DB /* SDWebImageDownloaderOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageDownloaderOperation.m; path = SDWebImage/SDWebImageDownloaderOperation.m; sourceTree = "<group>"; };
@@ -435,7 +435,7 @@
 		197A1BACB9ED879C10C69785A2125FD0 /* MJRefresh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefresh.h; path = MJRefresh/MJRefresh.h; sourceTree = "<group>"; };
 		199F15673D41BFC42558A711D69F88A0 /* ResourceBundle-SCCatWaitingHUD-SCCatWaitingHUD-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-SCCatWaitingHUD-SCCatWaitingHUD-Info.plist"; sourceTree = "<group>"; };
 		1A4A0D20A906B874987B05235BFB74CD /* SDWebImageManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageManager.m; path = SDWebImage/SDWebImageManager.m; sourceTree = "<group>"; };
-		1B9A77105B2074C4FE81C0AD52675159 /* PINCache.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PINCache.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1B9A77105B2074C4FE81C0AD52675159 /* PINCache.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = PINCache.framework; path = PINCache.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C6091D9886EC673CDBE6624AB969F44 /* DDOSLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DDOSLogger.m; path = Classes/DDOSLogger.m; sourceTree = "<group>"; };
 		1CDB8D225568ECBBC6642E3F4EC4FE35 /* HDBaseCellViewModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HDBaseCellViewModel.h; path = Example/_pods/HDBaseProject/HDBaseViewControllers/HDBaseCellViewModel.h; sourceTree = "<group>"; };
 		1DB1C2920055A8E0B58A6D6914346E5D /* MJRefreshComponent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshComponent.h; path = MJRefresh/Base/MJRefreshComponent.h; sourceTree = "<group>"; };
@@ -449,7 +449,7 @@
 		24012DC84831722E676C614F2181B2C8 /* UIImageView+WebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+WebCache.h"; path = "SDWebImage/UIImageView+WebCache.h"; sourceTree = "<group>"; };
 		256A931281F8E36AF9C310B4DC4183F0 /* UITableView+HDExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITableView+HDExtension.m"; path = "Example/_pods/HDBaseProject/HDCatogorys/UITableView+HDExtension.m"; sourceTree = "<group>"; };
 		28A0B35AB4E9D123A657E2571EA8C80D /* PINMemoryCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PINMemoryCache.h; path = PINCache/PINMemoryCache.h; sourceTree = "<group>"; };
-		2A19D583CC1C7821EAD217D6AC81F7E7 /* SCCatWaitingHUD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SCCatWaitingHUD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A19D583CC1C7821EAD217D6AC81F7E7 /* SCCatWaitingHUD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SCCatWaitingHUD.framework; path = SCCatWaitingHUD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CE3E35DC14C20EBBAFE05C23764E3E6 /* NSData+ImageContentType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSData+ImageContentType.h"; path = "SDWebImage/NSData+ImageContentType.h"; sourceTree = "<group>"; };
 		2DF517476D342BA76EBF9D614593E624 /* AFNetworking-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFNetworking-prefix.pch"; sourceTree = "<group>"; };
 		2DF7E9B8E06678CDA66416F15FBDBF14 /* DDMultiFormatter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDMultiFormatter.h; path = Classes/Extensions/DDMultiFormatter.h; sourceTree = "<group>"; };
@@ -591,16 +591,16 @@
 		966AADA416B39F91F3D9FE0E1901A704 /* HDCustomCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HDCustomCache.m; path = Example/_pods/HDBaseProject/HDGlobalMethods/HDCustomCache.m; sourceTree = "<group>"; };
 		97672C364191B5471F5D0C66FFF60726 /* AFNetworking-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFNetworking-umbrella.h"; sourceTree = "<group>"; };
 		98A3DF43756D263866C8E95338FC417A /* UIButton+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+AFNetworking.m"; path = "UIKit+AFNetworking/UIButton+AFNetworking.m"; sourceTree = "<group>"; };
-		99911CA82BF5DC93EC288CBC1F5ED3B5 /* CocoaLumberjack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CocoaLumberjack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		99911CA82BF5DC93EC288CBC1F5ED3B5 /* CocoaLumberjack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CocoaLumberjack.framework; path = CocoaLumberjack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BA525CA2A9431F50C371FC10526EFF3 /* HDBaseViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HDBaseViewController.m; path = Example/_pods/HDBaseProject/HDBaseViewControllers/HDBaseViewController.m; sourceTree = "<group>"; };
 		9BCEEB778C2C5A704598619ECBC7853D /* Pods-HDXcodeProjDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HDXcodeProjDemo.release.xcconfig"; sourceTree = "<group>"; };
 		9BD7A60EDCA13EEC0E178C8F4DA1EF77 /* UITextView+HDExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextView+HDExtension.h"; path = "Example/_pods/HDBaseProject/HDCatogorys/UITextView+HDExtension.h"; sourceTree = "<group>"; };
 		9CF20223B68690D7E38F15213ECAE034 /* AFNetworking.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AFNetworking.xcconfig; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E99B79648FC669FF0AE2E41CA9AA6B0 /* HDGlobalMethods.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HDGlobalMethods.m; path = Example/_pods/HDBaseProject/HDGlobalMethods/HDGlobalMethods.m; sourceTree = "<group>"; };
 		9EDF25748732608F71F037118C4D2E5C /* NSData+ImageContentType.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSData+ImageContentType.m"; path = "SDWebImage/NSData+ImageContentType.m"; sourceTree = "<group>"; };
 		A12F30696CE2A78D9508502E9A7F0574 /* UIControl+JKBlock.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIControl+JKBlock.m"; path = "Example/_pods/HDBaseProject/HDCatogorys/UIControl+JKBlock.m"; sourceTree = "<group>"; };
-		A1D135E4B9AEE3BCC7D9474693CEE339 /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1D135E4B9AEE3BCC7D9474693CEE339 /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SDWebImage.framework; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1D3D3A3266D38F8043504B3FEC5E541 /* MJRefreshHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshHeader.h; path = MJRefresh/Base/MJRefreshHeader.h; sourceTree = "<group>"; };
 		A24372171E19307876F706CB4E56AE56 /* DDLog.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DDLog.m; path = Classes/DDLog.m; sourceTree = "<group>"; };
 		A2FBCEE28D1D11C8D1303A0F84332493 /* SCCatWaitingHUD-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SCCatWaitingHUD-umbrella.h"; sourceTree = "<group>"; };
@@ -667,7 +667,7 @@
 		CE96FB4997DFC178C78F2E353212A08C /* HDBaseProject.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HDBaseProject.xcconfig; sourceTree = "<group>"; };
 		CED9E5C460116374640C4EC49E325B5D /* SDWebImagePrefetcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImagePrefetcher.h; path = SDWebImage/SDWebImagePrefetcher.h; sourceTree = "<group>"; };
 		CF90E6D82FBA24F29E01DA2863E9CFFA /* CocoaLumberjack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CocoaLumberjack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D012A803AFD6BB9A17AF5D81AD1534E1 /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D012A803AFD6BB9A17AF5D81AD1534E1 /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AFNetworking.framework; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0709E335517B3F071C904A3A84DCF0C /* MJRefreshBackStateFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshBackStateFooter.h; path = MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h; sourceTree = "<group>"; };
 		D07600AD0C264139E9A867F90415E81F /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFHTTPSessionManager.m; path = AFNetworking/AFHTTPSessionManager.m; sourceTree = "<group>"; };
 		D1E4CD83177F0E204FE7510BDE2B88BD /* MJRefreshGifHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshGifHeader.h; path = MJRefresh/Custom/Header/MJRefreshGifHeader.h; sourceTree = "<group>"; };
@@ -679,11 +679,11 @@
 		D6F2538F364EF0C50821420C2BC548BF /* AFSecurityPolicy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFSecurityPolicy.h; path = AFNetworking/AFSecurityPolicy.h; sourceTree = "<group>"; };
 		D70D79ACC094565162E9DD2AB2225A2A /* UIView+JKCustomBorder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+JKCustomBorder.m"; path = "Example/_pods/HDBaseProject/HDCatogorys/UIView+JKCustomBorder.m"; sourceTree = "<group>"; };
 		D8D84AEBE10069EEE9ECE6969953897C /* HDError.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HDError.m; path = Example/_pods/HDBaseProject/HDNetworking/HDError.m; sourceTree = "<group>"; };
-		D964B7513D5549B54C2C6B3842FFDEB1 /* Pods_HDXcodeProjDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HDXcodeProjDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D964B7513D5549B54C2C6B3842FFDEB1 /* Pods_HDXcodeProjDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HDXcodeProjDemo.framework; path = "Pods-HDXcodeProjDemo.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB1945B2463C1AD16E655D5F988C8626 /* AFNetworkActivityLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFNetworkActivityLogger.m; path = Example/_pods/HDBaseProject/HDNetworking/AFNetworkActivityLogger.m; sourceTree = "<group>"; };
 		DBD3616D2A682CFA1903ADDE7A64930A /* UIButton+HDExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+HDExtension.m"; path = "Example/_pods/HDBaseProject/HDCatogorys/UIButton+HDExtension.m"; sourceTree = "<group>"; };
 		DCA702649D3A6A97AB2D2C97F020C83E /* CLIColor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLIColor.m; path = Classes/CLI/CLIColor.m; sourceTree = "<group>"; };
-		E0B7531FF7F0D2326A379CB698AB29AC /* SCCatWaitingHUD.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SCCatWaitingHUD.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0B7531FF7F0D2326A379CB698AB29AC /* SCCatWaitingHUD.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = SCCatWaitingHUD.bundle; path = "SCCatWaitingHUD-SCCatWaitingHUD.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2FDE9BC44C9FB06B4B5EDE6D2AF1D67 /* Pods-HDXcodeProjDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HDXcodeProjDemo-acknowledgements.plist"; sourceTree = "<group>"; };
 		E362AF06A42E3055AB58958B2EA93A68 /* PINCache-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "PINCache-Info.plist"; sourceTree = "<group>"; };
 		E3783FDB79C53C042926567E36B21B54 /* NSImage+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSImage+WebCache.m"; path = "SDWebImage/NSImage+WebCache.m"; sourceTree = "<group>"; };
@@ -699,7 +699,7 @@
 		EB4500B41573721232057FCC584B044D /* UILabel+HDExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UILabel+HDExtension.h"; path = "Example/_pods/HDBaseProject/HDCatogorys/UILabel+HDExtension.h"; sourceTree = "<group>"; };
 		EB58CE24EA1B61131AC0104CAF045261 /* DDAssertMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDAssertMacros.h; path = Classes/DDAssertMacros.h; sourceTree = "<group>"; };
 		EB8878C95F9E599DCDB931C1D1F9EBB3 /* DDFileLogger+Internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "DDFileLogger+Internal.h"; path = "Classes/DDFileLogger+Internal.h"; sourceTree = "<group>"; };
-		EBBB1374361C8616D4A24B2A05213B07 /* MJRefresh.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MJRefresh.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EBBB1374361C8616D4A24B2A05213B07 /* MJRefresh.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MJRefresh.framework; path = MJRefresh.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBF11477EE0E25CE02B384B4FC573B6F /* SDWebImageDownloaderOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDownloaderOperation.h; path = SDWebImage/SDWebImageDownloaderOperation.h; sourceTree = "<group>"; };
 		EEEE0D27D3595F45C7FB3C1BD00A54F5 /* HDBaseUITableViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HDBaseUITableViewController.h; path = Example/_pods/HDBaseProject/HDBaseViewControllers/HDBaseUITableViewController.h; sourceTree = "<group>"; };
 		EF0336803C8903A3C694283A3DAAC64A /* HDCategorys.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HDCategorys.h; path = Example/_pods/HDBaseProject/HDCatogorys/HDCategorys.h; sourceTree = "<group>"; };
@@ -925,6 +925,7 @@
 				2ACDFE562CC344CC7535E211E28820B8 /* Core */,
 				FFF32474063868EF6BB0F33DB8BF3D3B /* Support Files */,
 			);
+			name = SDWebImage;
 			path = SDWebImage;
 			sourceTree = "<group>";
 		};
@@ -953,6 +954,7 @@
 				D1B9651133C397BB950935177839E215 /* Support Files */,
 				E6A8E664D987B47970192D895D384E17 /* ThirdPartyLibs */,
 			);
+			name = HDBaseProject;
 			path = HDBaseProject;
 			sourceTree = "<group>";
 		};
@@ -1003,6 +1005,7 @@
 				10A4D1158CCEE72D358BE2ACA40E9C19 /* Resources */,
 				7E284FBFC58603E34C21B7B6B4B41788 /* Support Files */,
 			);
+			name = MJRefresh;
 			path = MJRefresh;
 			sourceTree = "<group>";
 		};
@@ -1141,6 +1144,7 @@
 				B8426F5952197811EAC99D22C001BA7C /* Support Files */,
 				782EA45129501C9205E797C04D9DEF3D /* UIKit */,
 			);
+			name = AFNetworking;
 			path = AFNetworking;
 			sourceTree = "<group>";
 		};
@@ -1154,6 +1158,7 @@
 				AE17B98CCC84D7DD32778311EFAD6F5E /* Resources */,
 				A31C102A6BAFF7A336BA504476D016AB /* Support Files */,
 			);
+			name = SCCatWaitingHUD;
 			path = SCCatWaitingHUD;
 			sourceTree = "<group>";
 		};
@@ -1326,6 +1331,7 @@
 				F4EF3021CAFD500C675B7EAF71AD3208 /* Core */,
 				5982E46315C39519A95B0AE3EEDFFD9E /* Support Files */,
 			);
+			name = CocoaLumberjack;
 			path = CocoaLumberjack;
 			sourceTree = "<group>";
 		};
@@ -1342,6 +1348,7 @@
 				5B149888DE2A677484B9F6768057372F /* PINMemoryCache.m */,
 				39A727510BDF55D7745C92BEA1D16A00 /* Support Files */,
 			);
+			name = PINCache;
 			path = PINCache;
 			sourceTree = "<group>";
 		};
@@ -1773,7 +1780,6 @@
 				3B1CDD915F56F279548A8C95C7CE5728 /* Sources */,
 				114F7D77055591833019E4D34F7A82AE /* Frameworks */,
 				D25730DF3FA476103CDB0AC97089FA34 /* Resources */,
-				ADFD7FD02531A224004D275C /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -1932,26 +1938,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
-
-/* Begin PBXShellScriptBuildPhase section */
-		ADFD7FD02531A224004D275C /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-			);
-			outputFileListPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n";
-		};
-/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		054909784605A2F4E0C62173B1C39F84 /* Sources */ = {
@@ -2225,9 +2211,9 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		07E7C928B79ACB9203920879D883429A /* Debug */ = {
+		052F99A6BE6D70DEDD6A1210252AD5E2 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B5F1E3B2B7AC32F85938AC02D59B5F5A /* SDWebImage.xcconfig */;
+			baseConfigurationReference = 8781CE589CAD3293F43BE8706F4F05E8 /* PINCache.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -2238,8 +2224,8 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/SDWebImage/SDWebImage-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SDWebImage/SDWebImage-Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/PINCache/PINCache-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/PINCache/PINCache-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2247,18 +2233,19 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MODULEMAP_FILE = "Target Support Files/SDWebImage/SDWebImage.modulemap";
-				PRODUCT_MODULE_NAME = SDWebImage;
-				PRODUCT_NAME = SDWebImage;
+				MODULEMAP_FILE = "Target Support Files/PINCache/PINCache.modulemap";
+				PRODUCT_MODULE_NAME = PINCache;
+				PRODUCT_NAME = PINCache;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
 		196DFA3E4A09A28224918543529A1885 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -2324,10 +2311,12 @@
 			};
 			name = Debug;
 		};
-		3ABC47267FBA4E28F3854CD97D8D3713 /* Release */ = {
+		1EC6B8A079198A9F095CE2D8289030AB /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CE96FB4997DFC178C78F2E353212A08C /* HDBaseProject.xcconfig */;
+			baseConfigurationReference = BAF46237153BEFA5369068142E930FBE /* Pods-HDXcodeProjDemo.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -2337,32 +2326,32 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/HDBaseProject/HDBaseProject-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/HDBaseProject/HDBaseProject-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-HDXcodeProjDemo/Pods-HDXcodeProjDemo-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MODULEMAP_FILE = "Target Support Files/HDBaseProject/HDBaseProject.modulemap";
-				PRODUCT_MODULE_NAME = HDBaseProject;
-				PRODUCT_NAME = HDBaseProject;
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-HDXcodeProjDemo/Pods-HDXcodeProjDemo.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		43468D620A445656F37954911A57D1E1 /* Debug */ = {
+		3A63D4444D72C6C1094001C92FE255A4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CE96FB4997DFC178C78F2E353212A08C /* HDBaseProject.xcconfig */;
+			baseConfigurationReference = 3C2FEE07AFB98BFA4A8A25B9879B7DC5 /* CocoaLumberjack.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -2373,18 +2362,18 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/HDBaseProject/HDBaseProject-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/HDBaseProject/HDBaseProject-Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/CocoaLumberjack/CocoaLumberjack-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/CocoaLumberjack/CocoaLumberjack-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MODULEMAP_FILE = "Target Support Files/HDBaseProject/HDBaseProject.modulemap";
-				PRODUCT_MODULE_NAME = HDBaseProject;
-				PRODUCT_NAME = HDBaseProject;
+				MODULEMAP_FILE = "Target Support Files/CocoaLumberjack/CocoaLumberjack.modulemap";
+				PRODUCT_MODULE_NAME = CocoaLumberjack;
+				PRODUCT_NAME = CocoaLumberjack;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
@@ -2394,42 +2383,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		4C88E6046685CF439C844D586D3FCEE2 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8781CE589CAD3293F43BE8706F4F05E8 /* PINCache.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/PINCache/PINCache-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/PINCache/PINCache-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/PINCache/PINCache.modulemap";
-				PRODUCT_MODULE_NAME = PINCache;
-				PRODUCT_NAME = PINCache;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		504022C340330F1CC63A3972866AD980 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -2447,9 +2400,9 @@
 			};
 			name = Debug;
 		};
-		521F6E3E11179FA35932237D0ECC5F2E /* Debug */ = {
+		514704A91DCB3420833DCF36228E0C78 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3C2FEE07AFB98BFA4A8A25B9879B7DC5 /* CocoaLumberjack.xcconfig */;
+			baseConfigurationReference = CE96FB4997DFC178C78F2E353212A08C /* HDBaseProject.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -2460,18 +2413,18 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/CocoaLumberjack/CocoaLumberjack-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/CocoaLumberjack/CocoaLumberjack-Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/HDBaseProject/HDBaseProject-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/HDBaseProject/HDBaseProject-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MODULEMAP_FILE = "Target Support Files/CocoaLumberjack/CocoaLumberjack.modulemap";
-				PRODUCT_MODULE_NAME = CocoaLumberjack;
-				PRODUCT_NAME = CocoaLumberjack;
+				MODULEMAP_FILE = "Target Support Files/HDBaseProject/HDBaseProject.modulemap";
+				PRODUCT_MODULE_NAME = HDBaseProject;
+				PRODUCT_NAME = HDBaseProject;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
@@ -2482,9 +2435,9 @@
 			};
 			name = Debug;
 		};
-		549FF7C2296392EDB409DA7E47605911 /* Release */ = {
+		6C3F286ADCF69A4113D7EEB5953C4D69 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3C2FEE07AFB98BFA4A8A25B9879B7DC5 /* CocoaLumberjack.xcconfig */;
+			baseConfigurationReference = FC350A313846EF63EF697B0107E8D4A0 /* SCCatWaitingHUD.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -2495,8 +2448,8 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/CocoaLumberjack/CocoaLumberjack-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/CocoaLumberjack/CocoaLumberjack-Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/SCCatWaitingHUD/SCCatWaitingHUD-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SCCatWaitingHUD/SCCatWaitingHUD-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2504,9 +2457,44 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MODULEMAP_FILE = "Target Support Files/CocoaLumberjack/CocoaLumberjack.modulemap";
-				PRODUCT_MODULE_NAME = CocoaLumberjack;
-				PRODUCT_NAME = CocoaLumberjack;
+				MODULEMAP_FILE = "Target Support Files/SCCatWaitingHUD/SCCatWaitingHUD.modulemap";
+				PRODUCT_MODULE_NAME = SCCatWaitingHUD;
+				PRODUCT_NAME = SCCatWaitingHUD;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		70C1C6B81D24C3DE5A6B1698D2EFE83C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9CF20223B68690D7E38F15213ECAE034 /* AFNetworking.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/AFNetworking/AFNetworking-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/AFNetworking/AFNetworking-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/AFNetworking/AFNetworking.modulemap";
+				PRODUCT_MODULE_NAME = AFNetworking;
+				PRODUCT_NAME = AFNetworking;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
@@ -2518,7 +2506,114 @@
 			};
 			name = Release;
 		};
-		7C453BB9B50BD69F041F6F2D19CF2BAC /* Release */ = {
+		72D52A3596D9DC524C4A9D5079307B85 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B5F1E3B2B7AC32F85938AC02D59B5F5A /* SDWebImage.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SDWebImage/SDWebImage-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SDWebImage/SDWebImage-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/SDWebImage/SDWebImage.modulemap";
+				PRODUCT_MODULE_NAME = SDWebImage;
+				PRODUCT_NAME = SDWebImage;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		903037FE5502AE01A6E79389E2831B76 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FC350A313846EF63EF697B0107E8D4A0 /* SCCatWaitingHUD.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SCCatWaitingHUD/SCCatWaitingHUD-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SCCatWaitingHUD/SCCatWaitingHUD-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/SCCatWaitingHUD/SCCatWaitingHUD.modulemap";
+				PRODUCT_MODULE_NAME = SCCatWaitingHUD;
+				PRODUCT_NAME = SCCatWaitingHUD;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		976C3DFE873B9C7674EF510DD39102F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B5F1E3B2B7AC32F85938AC02D59B5F5A /* SDWebImage.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SDWebImage/SDWebImage-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SDWebImage/SDWebImage-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/SDWebImage/SDWebImage.modulemap";
+				PRODUCT_MODULE_NAME = SDWebImage;
+				PRODUCT_NAME = SDWebImage;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		A434F141233CD807A2320E99345D7CB6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9BCEEB778C2C5A704598619ECBC7853D /* Pods-HDXcodeProjDemo.release.xcconfig */;
 			buildSettings = {
@@ -2557,9 +2652,9 @@
 			};
 			name = Release;
 		};
-		7F4AD8C1D4D97DA0E65E366CC0A05A3A /* Debug */ = {
+		A646A86F1462F08838E4EFBF075686AE /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9CF20223B68690D7E38F15213ECAE034 /* AFNetworking.xcconfig */;
+			baseConfigurationReference = CE96FB4997DFC178C78F2E353212A08C /* HDBaseProject.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -2570,8 +2665,8 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/AFNetworking/AFNetworking-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/AFNetworking/AFNetworking-Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/HDBaseProject/HDBaseProject-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/HDBaseProject/HDBaseProject-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2579,44 +2674,9 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MODULEMAP_FILE = "Target Support Files/AFNetworking/AFNetworking.modulemap";
-				PRODUCT_MODULE_NAME = AFNetworking;
-				PRODUCT_NAME = AFNetworking;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		842027A70DF113A497466BAEAD6AA764 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FC350A313846EF63EF697B0107E8D4A0 /* SCCatWaitingHUD.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/SCCatWaitingHUD/SCCatWaitingHUD-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SCCatWaitingHUD/SCCatWaitingHUD-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/SCCatWaitingHUD/SCCatWaitingHUD.modulemap";
-				PRODUCT_MODULE_NAME = SCCatWaitingHUD;
-				PRODUCT_NAME = SCCatWaitingHUD;
+				MODULEMAP_FILE = "Target Support Files/HDBaseProject/HDBaseProject.modulemap";
+				PRODUCT_MODULE_NAME = HDBaseProject;
+				PRODUCT_NAME = HDBaseProject;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
@@ -2627,76 +2687,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
-		};
-		8F24BD7FCFDD74725A99F6DD05466811 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8781CE589CAD3293F43BE8706F4F05E8 /* PINCache.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/PINCache/PINCache-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/PINCache/PINCache-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/PINCache/PINCache.modulemap";
-				PRODUCT_MODULE_NAME = PINCache;
-				PRODUCT_NAME = PINCache;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		A2B91FE2CCAC286D0DDBD02992BC8D1B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5AD87548A02837EC5AE85E281E1B15E9 /* MJRefresh.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MJRefresh/MJRefresh-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MJRefresh/MJRefresh-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/MJRefresh/MJRefresh.modulemap";
-				PRODUCT_MODULE_NAME = MJRefresh;
-				PRODUCT_NAME = MJRefresh;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 		B01D14FDC83DCF9D4BE53066BEA96D05 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -2758,59 +2748,7 @@
 			};
 			name = Release;
 		};
-		D365BAB46A02E646CCC2791F1F5E8122 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = B5F1E3B2B7AC32F85938AC02D59B5F5A /* SDWebImage.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/SDWebImage/SDWebImage-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SDWebImage/SDWebImage-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/SDWebImage/SDWebImage.modulemap";
-				PRODUCT_MODULE_NAME = SDWebImage;
-				PRODUCT_NAME = SDWebImage;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		E1CE21FE812D389DC104560252D3229C /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FC350A313846EF63EF697B0107E8D4A0 /* SCCatWaitingHUD.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SCCatWaitingHUD";
-				INFOPLIST_FILE = "Target Support Files/SCCatWaitingHUD/ResourceBundle-SCCatWaitingHUD-SCCatWaitingHUD-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = SCCatWaitingHUD;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
-		E4E0F089956F114C474FBECA7ADE8AF8 /* Release */ = {
+		C29E9A6EE9DBEAA8D6FE212EF487397F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9CF20223B68690D7E38F15213ECAE034 /* AFNetworking.xcconfig */;
 			buildSettings = {
@@ -2840,13 +2778,47 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		F5E197A3A46F1D49A3C2D7D440A505A5 /* Release */ = {
+		C9C78100DF54B1719395455254FFFED8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8781CE589CAD3293F43BE8706F4F05E8 /* PINCache.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/PINCache/PINCache-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/PINCache/PINCache-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/PINCache/PINCache.modulemap";
+				PRODUCT_MODULE_NAME = PINCache;
+				PRODUCT_NAME = PINCache;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		CA6EEFB690577797169B11C628821DA4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5AD87548A02837EC5AE85E281E1B15E9 /* MJRefresh.xcconfig */;
 			buildSettings = {
@@ -2882,9 +2854,9 @@
 			};
 			name = Release;
 		};
-		F89C80E6842B53E01DEEF5A3E79B21D5 /* Debug */ = {
+		D82CDBC2EC9BB72554E9C0A2151016CA /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FC350A313846EF63EF697B0107E8D4A0 /* SCCatWaitingHUD.xcconfig */;
+			baseConfigurationReference = 3C2FEE07AFB98BFA4A8A25B9879B7DC5 /* CocoaLumberjack.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -2895,8 +2867,8 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/SCCatWaitingHUD/SCCatWaitingHUD-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SCCatWaitingHUD/SCCatWaitingHUD-Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/CocoaLumberjack/CocoaLumberjack-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/CocoaLumberjack/CocoaLumberjack-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2904,9 +2876,45 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MODULEMAP_FILE = "Target Support Files/SCCatWaitingHUD/SCCatWaitingHUD.modulemap";
-				PRODUCT_MODULE_NAME = SCCatWaitingHUD;
-				PRODUCT_NAME = SCCatWaitingHUD;
+				MODULEMAP_FILE = "Target Support Files/CocoaLumberjack/CocoaLumberjack.modulemap";
+				PRODUCT_MODULE_NAME = CocoaLumberjack;
+				PRODUCT_NAME = CocoaLumberjack;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		D870C6FCA96C69A7D87379B14FC2B557 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5AD87548A02837EC5AE85E281E1B15E9 /* MJRefresh.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MJRefresh/MJRefresh-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MJRefresh/MJRefresh-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/MJRefresh/MJRefresh.modulemap";
+				PRODUCT_MODULE_NAME = MJRefresh;
+				PRODUCT_NAME = MJRefresh;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
@@ -2917,43 +2925,21 @@
 			};
 			name = Debug;
 		};
-		FC9AA137AC6A5587C9403E0AC31888A7 /* Debug */ = {
+		E1CE21FE812D389DC104560252D3229C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BAF46237153BEFA5369068142E930FBE /* Pods-HDXcodeProjDemo.debug.xcconfig */;
+			baseConfigurationReference = FC350A313846EF63EF697B0107E8D4A0 /* SCCatWaitingHUD.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-HDXcodeProjDemo/Pods-HDXcodeProjDemo-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-HDXcodeProjDemo/Pods-HDXcodeProjDemo.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SCCatWaitingHUD";
+				INFOPLIST_FILE = "Target Support Files/SCCatWaitingHUD/ResourceBundle-SCCatWaitingHUD-SCCatWaitingHUD-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = SCCatWaitingHUD;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+				WRAPPER_EXTENSION = bundle;
 			};
-			name = Debug;
+			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
@@ -2961,8 +2947,8 @@
 		04A4C2D95861A38EE149FF949213942A /* Build configuration list for PBXNativeTarget "Pods-HDXcodeProjDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FC9AA137AC6A5587C9403E0AC31888A7 /* Debug */,
-				7C453BB9B50BD69F041F6F2D19CF2BAC /* Release */,
+				1EC6B8A079198A9F095CE2D8289030AB /* Debug */,
+				A434F141233CD807A2320E99345D7CB6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2970,8 +2956,8 @@
 		41D6DFBE997E173748D09E9A11D890A3 /* Build configuration list for PBXNativeTarget "AFNetworking" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7F4AD8C1D4D97DA0E65E366CC0A05A3A /* Debug */,
-				E4E0F089956F114C474FBECA7ADE8AF8 /* Release */,
+				C29E9A6EE9DBEAA8D6FE212EF487397F /* Debug */,
+				70C1C6B81D24C3DE5A6B1698D2EFE83C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2979,8 +2965,8 @@
 		440238C76C562FB68B67DE7C7FA0752E /* Build configuration list for PBXNativeTarget "HDBaseProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				43468D620A445656F37954911A57D1E1 /* Debug */,
-				3ABC47267FBA4E28F3854CD97D8D3713 /* Release */,
+				514704A91DCB3420833DCF36228E0C78 /* Debug */,
+				A646A86F1462F08838E4EFBF075686AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2997,8 +2983,8 @@
 		530354AC2DFD66CFC2882F8B986A9C30 /* Build configuration list for PBXNativeTarget "MJRefresh" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A2B91FE2CCAC286D0DDBD02992BC8D1B /* Debug */,
-				F5E197A3A46F1D49A3C2D7D440A505A5 /* Release */,
+				D870C6FCA96C69A7D87379B14FC2B557 /* Debug */,
+				CA6EEFB690577797169B11C628821DA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -3006,8 +2992,8 @@
 		5727A21D83A3F5362D7F996DE500B1C5 /* Build configuration list for PBXNativeTarget "CocoaLumberjack" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				521F6E3E11179FA35932237D0ECC5F2E /* Debug */,
-				549FF7C2296392EDB409DA7E47605911 /* Release */,
+				3A63D4444D72C6C1094001C92FE255A4 /* Debug */,
+				D82CDBC2EC9BB72554E9C0A2151016CA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -3015,8 +3001,8 @@
 		A0304CD2501B38B62636D9DE8BBA9946 /* Build configuration list for PBXNativeTarget "PINCache" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8F24BD7FCFDD74725A99F6DD05466811 /* Debug */,
-				4C88E6046685CF439C844D586D3FCEE2 /* Release */,
+				C9C78100DF54B1719395455254FFFED8 /* Debug */,
+				052F99A6BE6D70DEDD6A1210252AD5E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -3024,8 +3010,8 @@
 		B005B485A585A4E77298594907D6E067 /* Build configuration list for PBXNativeTarget "SCCatWaitingHUD" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F89C80E6842B53E01DEEF5A3E79B21D5 /* Debug */,
-				842027A70DF113A497466BAEAD6AA764 /* Release */,
+				6C3F286ADCF69A4113D7EEB5953C4D69 /* Debug */,
+				903037FE5502AE01A6E79389E2831B76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -3033,8 +3019,8 @@
 		B257991C26D4092024BCBB3E36B5ACDD /* Build configuration list for PBXNativeTarget "SDWebImage" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				07E7C928B79ACB9203920879D883429A /* Debug */,
-				D365BAB46A02E646CCC2791F1F5E8122 /* Release */,
+				976C3DFE873B9C7674EF510DD39102F2 /* Debug */,
+				72D52A3596D9DC524C4A9D5079307B85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
