@@ -82,3 +82,9 @@ sortDependecies()
 
 
 
+#### 参考资料
+
+[Xcodeproj](https://github.com/CocoaPods/Xcodeproj) 
+
+[利用xcodeproj给主工程添加子工程](https://www.jianshu.com/p/8f4d1de45ef7)
+
