@@ -1,0 +1,6 @@
+framework module Pods_HDXcodeProjDemo {
+  umbrella header "Pods-HDXcodeProjDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
